@@ -1,7 +1,7 @@
 ---
 title: CS Unplugged Activity Plan
 layout: template
-filename: 04_unplugged.md
+filename: 04_unplugged
 --- 
 
 # CS Unplugged Activity Plan
