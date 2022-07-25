@@ -1,3 +1,4 @@
+```java
 /**
  * Recursion Practice with Strings by Team SweatEquity
  * Aasine Cassara
@@ -46,3 +47,4 @@ public class Fence
 
   }
 }
+```
