@@ -1,3 +1,9 @@
+---
+title: CS Unplugged Activity Plan
+layout: template
+filename: 04_unplugged.md
+--- 
+
 # CS Unplugged Activity Plan
 #### by Team :snake::wrench:!
 Roster: Kiana Herr, David Moste, Nicole Cojuangco, Marieke Thomas
