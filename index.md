@@ -3,7 +3,9 @@ title: Kiana Herr's Hunter College Advanced Certificate Portfolio
 layout: template
 filename: index
 --- 
+
 # Welcome to Kiana Herr's website!
+
 
 ##CSCI 70900: Programming in a High Level Langage
 
