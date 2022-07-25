@@ -48,9 +48,9 @@
 
   |Course Topic|Files|
   |------------|-----|
-  |Array Lists|AlPractice.java|
-  |Linked Lists|Node.java<br />LinkedList.java|
-  |Sorting|SortSearch.java<br />SortSearch.java (extra - animation in progress)|
+  |Array Lists|[AlPractice.java](https://github.com/herrkm/nycscertweb/blob/50d5a8338fa884b79b7feefeb8ace456308a11f6/CSCI70300/AlPractice.java)|
+  |Linked Lists|[Node.java](https://github.com/herrkm/nycscertweb/blob/50d5a8338fa884b79b7feefeb8ace456308a11f6/CSCI70300/Node.java)<br />[LinkedList.java](https://github.com/herrkm/nycscertweb/blob/50d5a8338fa884b79b7feefeb8ace456308a11f6/CSCI70300/LinkedList.java)|
+  |Sorting|[SortSearch.java](https://github.com/herrkm/nycscertweb/blob/50d5a8338fa884b79b7feefeb8ace456308a11f6/CSCI70300/SortSearch.java)<br />[SortSearch.java](https://github.com/herrkm/nycscertweb/blob/50d5a8338fa884b79b7feefeb8ace456308a11f6/CSCI70300/SortSearchxtra.java) (extra - animation in progress)|
   
   Code sample (from LinkedList.java):
   ```{java}
