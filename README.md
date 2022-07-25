@@ -49,7 +49,7 @@
   |Course Topic|Files|
   |------------|-----|
   |Array Lists|AlPractice.java|
-  |Linked Lists|Node.java<br />pointers.draw<br />LinkedList.java<br />add.draw|
+  |Linked Lists|Node.java<br />LinkedList.java|
   |Sorting|SortSearch.java<br />SortSearch.java (extra - animation in progress)|
   
   Code sample (from LinkedList.java):
