@@ -1,3 +1,4 @@
+```java
 /**
  * nth Fibonacci number generator by Team SumEmIfYaGotEm
  * Aasine Cassara
@@ -38,3 +39,4 @@ public class Fib
   }//end main()
 
 }//end class Fib
+```
