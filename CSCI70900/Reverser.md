@@ -1,3 +1,4 @@
+```java
 /**
  * Recursive String Reverser by Team Palindromotosis
  * First Last
@@ -35,3 +36,4 @@ public class Reverser
     // got some good palindromes?
   }
 }
+```
