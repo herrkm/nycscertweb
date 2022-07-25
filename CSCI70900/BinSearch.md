@@ -1,3 +1,4 @@
+```java
 /**
  * Binary Search by Team Did You Mean Recursion?
  * First Last
@@ -130,3 +131,4 @@ public class BinSearch
   }
 
 }
+```
