@@ -1,3 +1,9 @@
+---
+title: AlPractice.java
+layout: template
+filename: CSCI70300/AlPractice
+--- 
+
 ```java
 import java.io.*;
 import java.util.*;
