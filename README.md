@@ -4,11 +4,11 @@
 
   |Course Topic|Files|
   |------------|-----|
-  |Conditional Logic|Nim.java|
-  |1D Arrays|ArrayPractice.java|
-  |2D Arrays|Array2DPractice.java<br />Cgol.java|
-  |Recursion|Fence.java<br />Fib.java<br />Reverser.java<br />BinSearch.java<br />|
-  |Classes & Objects|Time.java<br />Rational.java<br />SuperArray.java<br />|
+  |Conditional Logic|[Nim.java](https://github.com/herrkm/nycscertweb/blob/68a0e2b37a2fb35ac7585faf4a01b657cf393f3f/CSCI70900/Nim.java)|
+  |1D Arrays|[ArrayPractice.java](https://github.com/herrkm/nycscertweb/blob/68a0e2b37a2fb35ac7585faf4a01b657cf393f3f/CSCI70900/ArrayPractice.java)|
+  |2D Arrays|[Array2DPractice.java](https://github.com/herrkm/nycscertweb/blob/68a0e2b37a2fb35ac7585faf4a01b657cf393f3f/CSCI70900/Array2DPractice.java)<br />[Cgol.java](https://github.com/herrkm/nycscertweb/blob/68a0e2b37a2fb35ac7585faf4a01b657cf393f3f/CSCI70900/Cgol.java)|
+  |Recursion|[Fence.java](https://github.com/herrkm/nycscertweb/blob/68a0e2b37a2fb35ac7585faf4a01b657cf393f3f/CSCI70900/Fence.java)<br />[Fib.java](https://github.com/herrkm/nycscertweb/blob/68a0e2b37a2fb35ac7585faf4a01b657cf393f3f/CSCI70900/Fib.java)<br />[Reverser.java](https://github.com/herrkm/nycscertweb/blob/68a0e2b37a2fb35ac7585faf4a01b657cf393f3f/CSCI70900/Reverser.java)<br />[BinSearch.java](https://github.com/herrkm/nycscertweb/blob/68a0e2b37a2fb35ac7585faf4a01b657cf393f3f/CSCI70900/BinSearch.java)<br />|
+  |Classes & Objects|[Time.java](https://github.com/herrkm/nycscertweb/blob/68a0e2b37a2fb35ac7585faf4a01b657cf393f3f/CSCI70900/Time.java)<br />[Rational.java](https://github.com/herrkm/nycscertweb/blob/68a0e2b37a2fb35ac7585faf4a01b657cf393f3f/CSCI70900/Rational.java)<br />[SuperArray.java](https://github.com/herrkm/nycscertweb/blob/68a0e2b37a2fb35ac7585faf4a01b657cf393f3f/CSCI70900/SuperArray.java)<br />|
   
   Code sample (from Rational.java):
   ```{java}
