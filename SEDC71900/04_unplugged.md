@@ -32,7 +32,7 @@ Students are familiar with Booleans and have discussed conditionals -- they have
 1. Students get a set of instructions and an input value. Input is provided by the teacher. Each round of instructions has sub-rounds with different inputs. Instructions will be modified after each round to increase complexity.
 2. Students should record which commands they do/don't follow for each different input
 3. Round 1a: (input = 4)
-   ```
+   ```python
    if input > 5:
      Stand on a chair
      Raise your right hand
@@ -41,7 +41,7 @@ Students are familiar with Booleans and have discussed conditionals -- they have
    ```
 
 4. Round 1b: (same code, input = 13)
-   ```
+   ```python
    if input > 5:
      Stand on a chair
      Raise your right hand
@@ -50,7 +50,7 @@ Students are familiar with Booleans and have discussed conditionals -- they have
    ```
    
 5. Round 2: (2a: input = 9, 2b: input = 3, 2c: input = 7)
-   ```
+   ```python
    if input > 5:
      Stand up (on the floor)
      hop on one foot 3 times
@@ -63,7 +63,7 @@ Students are familiar with Booleans and have discussed conditionals -- they have
        High five a neighbor
    ```
 6. Round 3: (3a: input = 6, 3b: input = 10, 3c: input = 3, ask: What input could be used to get to the "Bark like a dog" line?[Answer: 5] Which input could be used to get to Meow like a cat? [Answer: 8] Challenge: Which instruction is impossible to reach? [Answer: Lick your elbow])
-   ```
+   ```python
    if input == 3:
      Cluck like a chicken
    
