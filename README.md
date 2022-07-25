@@ -11,7 +11,7 @@
   |Classes & Objects|[Time.java](https://github.com/herrkm/nycscertweb/blob/68a0e2b37a2fb35ac7585faf4a01b657cf393f3f/CSCI70900/Time.java)<br />[Rational.java](https://github.com/herrkm/nycscertweb/blob/68a0e2b37a2fb35ac7585faf4a01b657cf393f3f/CSCI70900/Rational.java)<br />[SuperArray.java](https://github.com/herrkm/nycscertweb/blob/68a0e2b37a2fb35ac7585faf4a01b657cf393f3f/CSCI70900/SuperArray.java)<br />|
   
   Code sample (from Rational.java):
-  ```{java}
+  ```java
   // multiply
   // takes a Rational parameter and multiplies it by this Rational
   // does not return a value
@@ -53,7 +53,7 @@
   |Sorting|[SortSearch.java](https://github.com/herrkm/nycscertweb/blob/50d5a8338fa884b79b7feefeb8ace456308a11f6/CSCI70300/SortSearch.java)<br />[SortSearch.java](https://github.com/herrkm/nycscertweb/blob/50d5a8338fa884b79b7feefeb8ace456308a11f6/CSCI70300/SortSearchxtra.java) (extra - animation in progress)|
   
   Code sample (from LinkedList.java):
-  ```{java}
+  ```java
   /**
   Returns the index (location) of the first node in the list
   that contains value.
@@ -94,7 +94,7 @@
   
   
   Code sample (from 05_scaffold_activity.java):
-  ```{java}
+  ```java
   import java.util.*;
 import java.io.*;
 
