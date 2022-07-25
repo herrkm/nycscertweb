@@ -1,2 +1,3 @@
-# Here's some text so that this isn't empty.
-* There will eventually be a Page linked to this repository.
+# Welcome to Kiana Herr's website!
+* I don't have any particular content to put here.
+* Hopefully I can build something useful once I have a need.
