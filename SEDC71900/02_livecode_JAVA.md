@@ -1,3 +1,4 @@
+```java
 //livecoding task!
 // Collaborators: Kiana Herr, Joshua Higgins, Rachel Kaufman, Shana Elizabeth Henry
 
@@ -71,3 +72,4 @@ public static void printArray(int[] data)
   FIRSTDRAFT :: code that will work for now, but which you intend to replace later
   REVISION vX :: better versions of firstdraft code...
 */
+```
