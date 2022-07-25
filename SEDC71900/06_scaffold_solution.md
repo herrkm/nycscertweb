@@ -1,3 +1,4 @@
+```java
 import java.util.*;
 import java.io.*;
 
@@ -33,3 +34,4 @@ public class scaffold_solution
     prettyPrint(array);
   }
 }
+```
