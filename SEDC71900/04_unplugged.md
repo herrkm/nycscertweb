@@ -1,7 +1,7 @@
 ---
 title: CS Unplugged Activity Plan
 layout: template
-filename: SEDC71900/04_unplugged
+filename: 04_unplugged
 --- 
 
 # CS Unplugged Activity Plan
