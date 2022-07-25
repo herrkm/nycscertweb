@@ -50,7 +50,7 @@ Code sample (from Rational.java):
     }
   }
   ```
-  
+    
   
   ## CSCI 70300: Data Structures in a High Level Language
   
@@ -91,6 +91,7 @@ Code sample (from Rational.java):
   }
   ```
   
+    
   ## SEDC 71900: Methods for Teaching Computer Science I
   
   |Course Topic|Files|
