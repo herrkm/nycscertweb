@@ -1,3 +1,4 @@
+```java
 /**
  * Rational class by Breakout Room 9
  * Greg Sciame
@@ -166,3 +167,4 @@ public class Rational
 
   
 }//end class
+```
