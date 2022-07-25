@@ -1,3 +1,9 @@
+---
+title: SortSearch.java
+layout: template
+filename: CSCI70300/SortSearchxtra
+--- 
+
 ```java
 import java.io.*;
 import java.util.*;
