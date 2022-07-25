@@ -10,11 +10,11 @@ filename: index
 
 |Course Topic|Files|
 |------------|-----|
-|Conditional Logic|[Nim.java](70900/Nim.md)
-|1D Arrays|[ArrayPractice.java](70900/ArrayPractice.md)|
-|2D Arrays|[Array2DPractice.java]()<br />[Cgol.java](70900/Cgol.md)|
-|Recursion|[Fence.java]()<br />[Fib.java](70900/Fib.md)<br />[Reverser.java](70900/Reverser.md)<br />[BinSearch.java](70900/BinSearch.md)|
-|Classes & Objects|[Time.java](70900/Time.md)<br />[Rational.java](70900/Rational.md)<br />[SuperArray.java](70900/SuperArray.md)|
+|Conditional Logic|[Nim.java](70900/Nim)
+|1D Arrays|[ArrayPractice.java](70900/ArrayPractice)|
+|2D Arrays|[Array2DPractice.java]()<br />[Cgol.java](70900/Cgol)|
+|Recursion|[Fence.java]()<br />[Fib.java](70900/Fib)<br />[Reverser.java](70900/Reverser)<br />[BinSearch.java](70900/BinSearch)|
+|Classes & Objects|[Time.java](70900/Time)<br />[Rational.java](70900/Rational)<br />[SuperArray.java](70900/SuperArray)|
 
 Code sample (from Rational.java):
 
@@ -56,9 +56,9 @@ Code sample (from Rational.java):
   
   |Course Topic|Files|
   |------------|-----|
-  |Array Lists|[AlPractice.java](CSCI70300/AlPractice.md)|
-  |Linked Lists|[Node.java](CSCI70300/Node.md)<br />[LinkedList.java](CSCI70300/LinkedList.md)|
-  |Sorting|[SortSearch.java](CSCI70300/SortSearch.md)<br />[SortSearch.java](CSCI70300/SortSearchxtra.md) (extra - animation in progress)|
+  |Array Lists|[AlPractice.java](CSCI70300/AlPractice)|
+  |Linked Lists|[Node.java](CSCI70300/Node)<br />[LinkedList.java](CSCI70300/LinkedList)|
+  |Sorting|[SortSearch.java](CSCI70300/SortSearch)<br />[SortSearch.java](CSCI70300/SortSearchxtra) (extra - animation in progress)|
   
   Code sample (from LinkedList.java):
   
@@ -95,12 +95,12 @@ Code sample (from Rational.java):
   ## SEDC 71900: Methods for Teaching Computer Science I
   
   |Course Topic|Files|
-  |Live Coding|[02_livecode_JAVA.java](SEDC71900/02_livecode_JAVA.md)|
-  |Tracing|[03_trace.txt](SEDC71900/03_trace.md)|
-  |Unplugged Activities|[04_unplugged.md](SEDC71900/04_unplugged.md)|
-  |Scaffolding|[06_scaffold_activity.java](SEDC71900/06_scaffold_activity.md)<br />[06_scaffold_solution.java](SEDC71900/06_scaffold_solution.md)|
+  |Live Coding|[02_livecode_JAVA.java](SEDC71900/02_livecode_JAVA)|
+  |Tracing|[03_trace.txt](SEDC71900/03_trace)|
+  |Unplugged Activities|[04_unplugged](SEDC71900/04_unplugged)|
+  |Scaffolding|[06_scaffold_activity.java](SEDC71900/06_scaffold_activity)<br />[06_scaffold_solution.java](SEDC71900/06_scaffold_solution)|
   
-  Work sample (from 04_unplugged.md):
+  Work sample (from 04_unplugged):
   
   Round 2: (2a: input = 9, 2b: input = 3, 2c: input = 7)
    ```python
