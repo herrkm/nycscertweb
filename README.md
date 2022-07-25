@@ -1,8 +1,16 @@
 # Welcome to Kiana Herr's website!
-* I don't have any particular content to put here.
-* Hopefully I can build something useful once I have a need.
 
-| Category | Thing |
-|----------|-------|
-| Table cell 1 | Table cell 2 |
-| Some stuff | Some other stuff |
+## CSCI 70900: Programming in a High Level Language
+* Course topics:
+
+  |Topic|Files|
+  |-----|-----|
+  |Conditional Logic|Nim.java|
+  |1D Arrays|ArrayPractice.java|
+  |2D Arrays|Array2DPractice.java<br />Cgol.java|
+  |Recursion|Fence.java<br />Fib.java<br />Reverser.java<br />BinSearch.java<br />|
+  |Classes & Objects|Time.java<br />Rational.java<br />SuperArray.java<br />|
+  
+  
+
+
