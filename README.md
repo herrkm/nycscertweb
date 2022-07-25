@@ -87,13 +87,13 @@
 
   |Course Topic|Files|
   |------------|-----|
-  |Live Coding|02_livecode_JAVA.java|
-  |Tracing|03_trace.txt|
-  |Unplugged Activities|04_unplugged.md|
-  |Scaffolding|05_scaffold_activity.java<br />05_scaffold_solution.java|
+  |Live Coding|[02_livecode_JAVA.java](https://github.com/herrkm/nycscertweb/blob/eb20e15c0e5dfcaede3b0b1fdaf5daeb171b2d50/SEDC71900/02_livecode_JAVA.java)|
+  |Tracing|[03_trace.txt](https://github.com/herrkm/nycscertweb/blob/eb20e15c0e5dfcaede3b0b1fdaf5daeb171b2d50/SEDC71900/03_trace.txt)|
+  |Unplugged Activities|[04_unplugged.md](https://github.com/herrkm/nycscertweb/blob/eb20e15c0e5dfcaede3b0b1fdaf5daeb171b2d50/SEDC71900/04_unplugged.md)|
+  |Scaffolding|[06_scaffold_activity.java](https://github.com/herrkm/nycscertweb/blob/eb20e15c0e5dfcaede3b0b1fdaf5daeb171b2d50/SEDC71900/06_scaffold_activity.java)<br />[06_scaffold_solution.java](https://github.com/herrkm/nycscertweb/blob/eb20e15c0e5dfcaede3b0b1fdaf5daeb171b2d50/SEDC71900/06_scaffold_solution.java)|
   
   
-  Code sample (from 05_scaffold_activity.java):
+  Code sample (from 06_scaffold_activity.java):
   ```java
   import java.util.*;
 import java.io.*;
