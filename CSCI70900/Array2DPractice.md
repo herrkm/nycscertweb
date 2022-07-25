@@ -1,3 +1,4 @@
+```java
 import java.io.*;
 import java.util.*;
 
@@ -318,3 +319,4 @@ public class Array2DPractice
     printBoard(testBoard);
   }
 }
+```
