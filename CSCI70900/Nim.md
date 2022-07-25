@@ -1,3 +1,4 @@
+```java
 /**
 * Game of Nim by Team Breakout Room 5
 * Kiana Herr
@@ -55,3 +56,4 @@ public class Nim //goal: be the player to remove the last stone
     }
   }
 }
+```
