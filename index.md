@@ -10,11 +10,11 @@ filename: index
 
 |Course Topic|Files|
 |------------|-----|
-|Conditional Logic|[Nim.java](70900/Nim)
-|1D Arrays|[ArrayPractice.java](70900/ArrayPractice)|
-|2D Arrays|[Array2DPractice.java]()<br />[Cgol.java](70900/Cgol)|
-|Recursion|[Fence.java]()<br />[Fib.java](70900/Fib)<br />[Reverser.java](70900/Reverser)<br />[BinSearch.java](70900/BinSearch)|
-|Classes & Objects|[Time.java](70900/Time)<br />[Rational.java](70900/Rational)<br />[SuperArray.java](70900/SuperArray)|
+|Conditional Logic|[Nim.java](CSCI70900/Nim)
+|1D Arrays|[ArrayPractice.java](CSCI70900/ArrayPractice)|
+|2D Arrays|[Array2DPractice.java]()<br />[Cgol.java](CSCI70900/Cgol)|
+|Recursion|[Fence.java]()<br />[Fib.java](CSCI70900/Fib)<br />[Reverser.java](CSCI70900/Reverser)<br />[BinSearch.java](CSCI70900/BinSearch)|
+|Classes & Objects|[Time.java](CSCI70900/Time)<br />[Rational.java](CSCI70900/Rational)<br />[SuperArray.java](CSCI70900/SuperArray)|
 
 Code sample (from Rational.java):
 
