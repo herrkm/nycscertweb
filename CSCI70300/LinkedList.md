@@ -1,3 +1,9 @@
+---
+title: LinkedList.java
+layout: template
+filename: CSCI70300/LinkedList
+---
+
 ```java
 import java.io.*;
 import java.util.*;
