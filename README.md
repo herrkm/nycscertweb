@@ -1,8 +1,3 @@
----
-title: Kiana Herr's Hunter CS Advanced Certificate Portfolio
-filename: README.md
---- 
-
 # Welcome to Kiana Herr's website!
 
 ## CSCI 70900: Programming in a High Level Language
