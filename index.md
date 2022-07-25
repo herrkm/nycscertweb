@@ -6,8 +6,7 @@ filename: index
 
 # Welcome to Kiana Herr's website!
 
-
-##CSCI 70900: Programming in a High Level Langage
+## CSCI 70900: Programming in a High Level Langage
 
 |Course Topic|Files|
 |------------|-----|
