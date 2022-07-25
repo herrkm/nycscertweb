@@ -1,3 +1,4 @@
+```java
 import java.io.*;
 import java.util.*;
 
@@ -341,14 +342,4 @@ public class SortSearch{
 
 
 }//end class
-
-
-
-
-
-
-
-
-
-  
-  
+```
