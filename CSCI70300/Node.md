@@ -1,3 +1,9 @@
+---
+title: Node.java
+layout: template
+filename: CSCI70300/Node
+--- 
+
 ```java
 public class Node{
   private String data;
