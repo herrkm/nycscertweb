@@ -1,3 +1,4 @@
+```java
 /**
  * ArrayPractice by Boss Coders
  * Patti Elfers-Wygand
@@ -243,3 +244,4 @@ public class ArrayPractice
     //prints out the first occurrence of 25 in the random array named data. If there is no 25, it prints out the length of the array named data.
   }
 }
+```
