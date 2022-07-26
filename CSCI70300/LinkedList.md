@@ -1,7 +1,7 @@
 ---
 title: LinkedList.java
 layout: template
-filename: CSCI70300/LinkedList
+filename: LinkedList
 ---
 
 ```java
