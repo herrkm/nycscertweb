@@ -1,3 +1,7 @@
+title: Cgol.java
+layout: template
+filename: Cgol
+
 ```java
 import java.io.*;
 import java.util.*;
