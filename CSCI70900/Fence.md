@@ -1,6 +1,8 @@
+---
 title: Fence.java
 layout: template
 filename: Fence
+---
 
 ```java
 /**
