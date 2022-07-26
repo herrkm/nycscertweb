@@ -1,3 +1,9 @@
+---
+title: 03_trace.txt
+layout: template
+filename: 03_trace
+---
+
 Team Fantastic Fives :: Ben Eckley, Kiana Herr, Thea Williams
 Methods - Summer 2022
 
