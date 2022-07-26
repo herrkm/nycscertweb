@@ -1,3 +1,9 @@
+---
+title: Scaffolding Activity - Skeleton Code
+layout: template
+filename: 06_scaffold_activity
+---
+
 ```java
 import java.util.*;
 import java.io.*;
