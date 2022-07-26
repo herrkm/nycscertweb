@@ -1,5 +1,5 @@
 ---
-title: 03_trace.txt
+title: Notes about Tracing
 layout: template
 filename: 03_trace
 ---
