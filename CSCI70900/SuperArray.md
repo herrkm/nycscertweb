@@ -1,6 +1,8 @@
+---
 title: SuperArray.java
 layout: template
 filename: SuperArray
+---
 
 ```java
 /**
