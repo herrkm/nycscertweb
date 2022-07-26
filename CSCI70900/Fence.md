@@ -1,3 +1,7 @@
+title: Fence.java
+layout: template
+filename: Fence
+
 ```java
 /**
  * Recursion Practice with Strings by Team SweatEquity
