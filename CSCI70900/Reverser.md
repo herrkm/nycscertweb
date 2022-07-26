@@ -1,6 +1,8 @@
+---
 title: Reverser.java
 layout: template
 filename: Reverser
+---
 
 ```java
 /**
