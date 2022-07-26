@@ -1,3 +1,7 @@
+title: SuperArray.java
+layout: template
+filename: SuperArray
+
 ```java
 /**
  * SuperArray by Breakout Room #9 July 8th, 2022
