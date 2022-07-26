@@ -1,3 +1,9 @@
+---
+title: 02_livecode_JAVA.java
+layout: template
+filename: 02_livecode_JAVA
+---
+
 ```java
 //livecoding task!
 // Collaborators: Kiana Herr, Joshua Higgins, Rachel Kaufman, Shana Elizabeth Henry
