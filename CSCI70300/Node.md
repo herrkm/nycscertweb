@@ -1,7 +1,7 @@
 ---
 title: Node.java
 layout: template
-filename: CSCI70300/Node
+filename: Node
 --- 
 
 ```java
