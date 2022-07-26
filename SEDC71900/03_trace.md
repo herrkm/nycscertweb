@@ -19,6 +19,7 @@ PROS:
 - Helps you learn how the computer reads and processes the code.
 - Functions as pseudocode. Helps figure out how to write actual code.
 
+
 CONS:
 ---------------------------------------
 <general negative aspects of incorporating code or algorithm tracing into a CS course, from your perspective>
@@ -28,6 +29,7 @@ CONS:
 - If the tracing style does NOT work for the learner it can move them further from understanding rather than closer.
 - Time consuming
 
+
 BEST FOR:
 ---------------------------------------
 <types of activities from courses you teach or have taught that could benefit from an emphasis on tracing>
@@ -35,6 +37,7 @@ BEST FOR:
 - Abstract structures (e.g. loops, recursions)
 - Order of operations
 - How multiple methods interact
+
 
 LEAST-SUITED TO:
 ---------------------------------------
