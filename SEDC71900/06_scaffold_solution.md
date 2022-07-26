@@ -1,3 +1,9 @@
+---
+title: Scaffolding Activity - Solution
+layout: template
+filename: 06_scaffold_solution
+---
+
 ```java
 import java.util.*;
 import java.io.*;
