@@ -1,3 +1,7 @@
+title: BinSearch.java
+layout: template
+filename: BinSearch
+
 ```java
 /**
  * Binary Search by Team Did You Mean Recursion?
