@@ -1,7 +1,7 @@
 ---
 title: SortSearch.java (animation in progress)
 layout: template
-filename: CSCI70300/SortSearchxtra
+filename: SortSearchxtra
 --- 
 
 ```java
