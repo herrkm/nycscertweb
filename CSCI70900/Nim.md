@@ -1,3 +1,7 @@
+title: Nim.java
+layout: template
+filename: Nim
+
 ```java
 /**
 * Game of Nim by Team Breakout Room 5
