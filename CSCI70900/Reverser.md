@@ -1,3 +1,7 @@
+title: Reverser.java
+layout: template
+filename: Reverser
+
 ```java
 /**
  * Recursive String Reverser by Team Palindromotosis
