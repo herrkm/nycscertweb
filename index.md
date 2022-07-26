@@ -2,6 +2,7 @@
 title: Kiana Herr's Hunter College Advanced Certificate Portfolio
 layout: template
 filename: index
+status: hidetitle
 --- 
 
 # Welcome to Kiana Herr's website!
