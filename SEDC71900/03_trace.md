@@ -41,7 +41,7 @@ BEST FOR:
 
 LEAST-SUITED TO:
 ---------------------------------------
-<opposite of above -- and why>
+<opposite of above - and why>
  
 - If it is either something too much or too little to trace (break large tasks into smaller chunks)
 
