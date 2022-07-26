@@ -1,7 +1,7 @@
 ---
 title: AlPractice.java
 layout: template
-filename: CSCI70300/AlPractice
+filename: AlPractice
 --- 
 
 ```java
