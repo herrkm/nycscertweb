@@ -1,6 +1,8 @@
+---
 title: Rational.java
 layout: template
 filename: Rational
+---
 
 ```java
 /**
