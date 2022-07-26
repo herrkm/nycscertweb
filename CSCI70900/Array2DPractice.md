@@ -1,3 +1,9 @@
+---
+title: Array2DPractice.java
+layout: template
+filename: Array2DPractice
+--- 
+
 ```java
 import java.io.*;
 import java.util.*;
