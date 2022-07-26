@@ -1,6 +1,8 @@
+---
 title: ArrayPractice.java
 layout: template
 filename: ArrayPractice
+---
 
 ```java
 /**
