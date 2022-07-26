@@ -1,3 +1,7 @@
+title: ArrayPractice.java
+layout: template
+filename: ArrayPractice
+
 ```java
 /**
  * ArrayPractice by Boss Coders
