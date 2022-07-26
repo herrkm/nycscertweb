@@ -1,5 +1,5 @@
 ---
-title: 02_livecode_JAVA.java
+title: Live Coding Reference
 layout: template
 filename: 02_livecode_JAVA
 ---
