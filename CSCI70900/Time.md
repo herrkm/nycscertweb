@@ -1,3 +1,7 @@
+title: Time.java
+layout: template
+filename: Time
+
 ```java
 import java.io.*;
 import java.util.*;
