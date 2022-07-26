@@ -42,7 +42,9 @@
     <div class="container-lg px-3 my-5 markdown-body">
       
       <h1><a href="https://herrkm.github.io/nycscertweb/" > Kiana Herr's Hunter College Advanced Certificate Portfolio </a> </h1>
-      <h2> {{ page.title }} </h2>
+      {% unless page.status == "hidetitle" %}
+        <h2> {{ page.title }} </h2>
+      {% endunless }
       
 
       {{ content }}
