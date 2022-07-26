@@ -1,3 +1,7 @@
+title: Fib.java
+layout: template
+filename: Fib
+
 ```java
 /**
  * nth Fibonacci number generator by Team SumEmIfYaGotEm
