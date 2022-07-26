@@ -1,6 +1,8 @@
+---
 title: BinSearch.java
 layout: template
 filename: BinSearch
+---
 
 ```java
 /**
