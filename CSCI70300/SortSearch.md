@@ -1,7 +1,7 @@
 ---
 title: SortSearch.java
 layout: template
-filename: CSCI70300/SortSearch
+filename: SortSearch
 --- 
 
 ```java
