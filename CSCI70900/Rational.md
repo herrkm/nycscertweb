@@ -1,3 +1,7 @@
+title: Rational.java
+layout: template
+filename: Rational
+
 ```java
 /**
  * Rational class by Breakout Room 9
