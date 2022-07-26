@@ -1,6 +1,8 @@
+---
 title: Nim.java
 layout: template
 filename: Nim
+---
 
 ```java
 /**
