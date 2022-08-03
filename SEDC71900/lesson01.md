@@ -179,6 +179,7 @@ print(f"{word} --> {new_word}")
 ![image](image_2.png)
 
 #### Exercise 2:
+
 | i | Condition | Actions |
 |:---:|:-----------:|---------|
 |i = 2| 2 < 10 ---> True | print(i, end=", ")<br />i += 2|
