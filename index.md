@@ -100,6 +100,7 @@ public int indexOf(String value){
 |Tracing|[03_trace.txt](SEDC71900/03_trace)|
 |Unplugged Activities|[04_unplugged](SEDC71900/04_unplugged)|
 |Scaffolding|[06_scaffold_activity.java](SEDC71900/06_scaffold_activity)<br />[06_scaffold_solution.java](SEDC71900/06_scaffold_solution)|
+|Lesson Plan|[lesson01.md](SEDC71900/lesson01)|
 
 Work sample (from 04_unplugged):
 
